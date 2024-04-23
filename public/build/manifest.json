@@ -1,0 +1,12 @@
+{
+  "build/app.css": "/build/app.css",
+  "build/app.js": "/build/app.js",
+  "build/runtime.js": "/build/runtime.js",
+  "build/vendors-node_modules_symfony_stimulus-bridge_dist_index_js-node_modules_core-js_modules_es_er-afe677.css": "/build/vendors-node_modules_symfony_stimulus-bridge_dist_index_js-node_modules_core-js_modules_es_er-afe677.css",
+  "build/vendors-node_modules_symfony_stimulus-bridge_dist_index_js-node_modules_core-js_modules_es_er-afe677.js": "/build/vendors-node_modules_symfony_stimulus-bridge_dist_index_js-node_modules_core-js_modules_es_er-afe677.js",
+  "build/fonts/fa-solid-900.ttf": "/build/fonts/fa-solid-900.bacd5de6.ttf",
+  "build/fonts/fa-brands-400.ttf": "/build/fonts/fa-brands-400.60127e35.ttf",
+  "build/fonts/fa-solid-900.woff2": "/build/fonts/fa-solid-900.4d986b00.woff2",
+  "build/fonts/fa-brands-400.woff2": "/build/fonts/fa-brands-400.455ea818.woff2",
+  "build/images/fortune-logo.png": "/build/images/fortune-logo.37be0cfe.png"
+}

@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+table tr:nth-child(even){
+    background: rgb(245, 247, 248);
+}
+body{
+    background:rgb(245, 247, 248);
+}
+.container{
+    background:rgb(245, 247, 248);
+}
