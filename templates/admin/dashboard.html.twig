@@ -1,0 +1,8 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    {# el Hello es como se llama mi archivo de react con extension jsx #}
+    <div {{ react_component('Hello', {
+        entrypoint: path('api_entrypoint')
+    }) }}></div>
+{% endblock %}
